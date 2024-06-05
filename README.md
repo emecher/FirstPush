@@ -13,7 +13,7 @@
 
 <body>
 	<br />
-	<h1 align="center">دوره جاوا اسریپت وب سایت سبزلرن</h1>
+	<h1 align="center">JavaScript code</h1>
 	
 	
 	<script src="js/script.js"></script>
